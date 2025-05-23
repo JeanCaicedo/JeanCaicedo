@@ -1,5 +1,5 @@
 <div id="header" align="center">
     <h1 align="center">Hi 👋, I'm Jean Caicedo</h1>
-    <h3 align="center">As a programmer, I thrive on the ever-evolving nature of the field. My passion lies in continuously expanding my skill set and exploring new languages. I am driven by the challenge of mastering different programming paradigms and honing my expertise in data logic. With a hunger for knowledge, I am excited to embrace new technologies and contribute to innovative solutions.</h3>
+    <h3 align="center">Como programador, prospero gracias a la naturaleza siempre cambiante de este campo. Mi pasión reside en ampliar continuamente mi conjunto de habilidades y explorar nuevos lenguajes. Me impulsa el reto de dominar distintos paradigmas de programación y perfeccionar mi experiencia en lógica de datos. Con un hambre insaciable de conocimiento, me emociona adoptar nuevas tecnologías y contribuir a soluciones innovadoras.</h3>
 
 </div>
