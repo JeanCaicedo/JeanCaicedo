@@ -61,8 +61,8 @@ Me caracterizo por el trabajo en equipo, comunicación técnica y resolución de
 - Node.js Backend  
 - PostgreSQL  
 - Diseño REST de APIs  
-- JavaScript Básico  
-- Python Básico  
+- JavaScript   
+- Python   
 
 ---
 
