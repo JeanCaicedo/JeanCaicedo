@@ -4,16 +4,7 @@
 
 <h1>Jean Carlos Julio Caicedo</h1>
 
-<p><b>Desarrollador Fullstack Jr</b> · <b>Técnico de Soporte TI</b> · <b>Perfil Administrativo</b><br>
-Barranquilla, Colombia · Ingeniería de Sistemas (en curso)</p>
 
-<a href="https://jeancaicedo.github.io"><img src="https://img.shields.io/badge/Portafolio-08080b?style=for-the-badge&logo=githubpages&logoColor=4f9bf5" alt="Portafolio" /></a>
-<a href="https://www.linkedin.com/in/jeanncaicedo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:juliojeancarlos780@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-</div>
-
----
 
 ## Sobre mí
 
